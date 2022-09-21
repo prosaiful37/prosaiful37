@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**prosaiful37/prosaiful37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Junior web developer work at forntend and backend technology. I usually work at html, css, css freamworks Bootstrap and tailwindcss and reactJs nodejs, mongodb, express etc. I love to working with new technologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

@@ -1,24 +1,19 @@
+![Junior Web Developer.](https://media-exp1.licdn.com/dms/image/C4D16AQF3wFgV8F2v8g/profile-displaybackgroundimage-shrink_350_1400/0/1657024451799?e=1669248000&v=beta&t=X-1PbY0jNNho7QEN9xCkTocZZENZnXzDo9XZyZDEJDk)
 ### Hi there 👋, my name Saiful Islam
 #### Junior Web Developer.
-![Junior Web Developer.](https://media-exp1.licdn.com/dms/image/C4D16AQF3wFgV8F2v8g/profile-displaybackgroundimage-shrink_350_1400/0/1657024451799?e=1669248000&v=beta&t=X-1PbY0jNNho7QEN9xCkTocZZENZnXzDo9XZyZDEJDk)
 
 I work in frontend and backend technology. I usually work at html, css, and CSS frameworks Bootstrap and tailwindcss and reactJs nodejs, MongoDB, express, etc. I love working with new technologies.
 
 
 
-- 🔭 I’m currently working on [Slice Pizza](https://slice-pizza-7a969.web.app/)
-
-- 🌱 I’m currently learning **JavaScript, ReactJs,**
-
-- 👨‍💻 All of my projects are available at [https://saifuldevprotfolio.netlify.app/](https://saifuldevprotfolio.netlify.app/)
-
-- 💬 Ask me about **Html, CSS**
-
+- 🔭 I’m currently working on my project slice pizza delivery web app. 
+- 🌱 I’m currently learning JavaScript , React js 
+- 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me **saiful607571@gmail.com**
-
+- 😄 Pronouns: Cool , Fun, & excited. 
+- ⚡ Fun fact: I like to traveling, Like Coding , & Reading Books.
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JdTUjoay9ChPdQnCp1Y9o6GoD6dq-nTo/view?usp=sharing](https://drive.google.com/file/d/1JdTUjoay9ChPdQnCp1Y9o6GoD6dq-nTo/view?usp=sharing)
 
-- ⚡ Fun fact **I like to traveling, Like Coding , & Reading Books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

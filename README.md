@@ -32,6 +32,7 @@ I work in frontend and backend technology. I usually work at html, css, and CSS 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prosaiful37" alt="prosaiful37" /></a> </p>
 
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prosaiful37&show_icons=true&locale=en&layout=compact" alt="prosaiful37" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prosaiful37&show_icons=true&locale=en" alt="prosaiful37" /></p>
